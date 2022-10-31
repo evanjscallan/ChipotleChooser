@@ -1,0 +1,25 @@
+--- Chipotle Chooser: General Info ---
+
+	Name: Chipotle Chooser
+
+	About: Chipotle Chooser is an online application which helps users pick a meal from the restaurant based on their personal preferences combined with nutritional needs and goals. The application is built to help customers easily make healthy choices when visiting Chipotle franches.
+
+	License: MIT
+
+	Founded: 10/21/2022
+
+	Founder: Evan Scallan
+
+	Tech Stack: MERN (MongoDB, ExpressJS, React, NodeJS)
+
+	Language: Javascript/Typescript, JSX/TSX
+
+	API Architecture: REST (See 'DataSources.txt' and 'APILayersInfo.txt' for additional details.)
+
+	Web Host: TBD
+
+	URL: TBD
+
+	HTTP Request URL: TBD
+
+

@@ -1,0 +1,10 @@
+--- DATA Sources ---
+
+1.) Nutrition Information -
+	1.) https://www.ncbi.nlm.nih.gov/books/NBK499909/#:~:text=On%20average%2C%20a%20woman%20should,lose%20one%20pound%20per%20week.
+	2.) https://www.nhlbi.nih.gov/health/educational/lose_wt/eat/calories.htm
+
+
+2.) Chipotle Menu Data (Acquired from Kaggle, implemented into MongoDB)
+
+

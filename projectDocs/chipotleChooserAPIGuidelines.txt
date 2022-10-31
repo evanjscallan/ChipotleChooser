@@ -1,0 +1,28 @@
+ ---  Chipotle Chooser: API Guidelines ---
+
+
+--- SECURITY ---
+The API should be accesible by any person authorized to work on the project via a uniquely-generated access key. Users will have the ability to make requests within the framework of the application but not access to a large amount of requests or custom requests from the server.
+
+
+--- TESTABILITY ---
+The API should be open to anyone with an access key to test the breakability of the data requests. It should also be testable by common API testing standards with programs such as Postman or K6. It should have sufficient bandwidth to handle 100 VUs at a time (as of 10/21/2022). 
+
+
+--- SCALABILITY ---
+ChipotleChooser API should be built using sound architecture and data structure concepts in mind, keeping the searchability and requestability of the nutrition data at the lowest possible Big-O complexity. As the API is a personal project at the moment, any storage or HTTP request costs should be avoided and appropriately limited to 100 VUs.
+
+
+--- RELIABILITY --- 
+The API should have minimal downtime. The data should be structured to where data fixes can be quickly implemented with minimum loss of access to the user. Appropriate warnings or errors should be displayed if the API is not functioning as programmed.
+
+
+--- USABILITY --- 
+The Usability will be solely internal for purpose of the development of the ChipotleChooser APP. Users of the APP will not have access to the API as of 10/21/2022 (pending changes).
+
+
+
+Have fun and stay healthy.
+License: MIT
+Originally founded by Evan Scallan on 10/21/2022.
+

@@ -1,0 +1,17 @@
+		---Chipotle Chooser: 3 API Layers---
+
+
+					--- High-Level Layers Overview ---
+
+<---(Client)--->
+
+	--- 1.) Validation Layer (OAuth, API Key, etc.) ---
+	--- 2.) Caching Layer (Caching instructions for client) ---
+	--- 3.) Orchestration Layer (if needed or a new feature is added) ---
+
+<---(Business Logic/Application)--->
+
+
+API TYPE: Internal
+SERVER PORT (nodemon): 6000
+TO START SERVER: "npm start" within "chipotle-api"

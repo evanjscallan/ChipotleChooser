@@ -1,0 +1,103 @@
+Menu Type,Menu Category,Menu Item,Size Type,Per Serving Size,Total Calories (cal),Total Fat Calories (cal),Total Fats (g),Saturated Fats (g),Non-Saturated Fats (g),Trans Fats (g),Cholesterol (mg),Sodium (g),Carbohydrates (g),Dietary Fiber (g),Sugar (g),Protein (g)
+Adult,Burrito,Tortilla,Regular,1 ea,320,80,9,0.5,8.5,0,0,600,0,3,0,8
+Adult,Taco,Tortilla,Regular,1 ea,80,25,2.5,0,2.5,0,0,160,0,1,0,2
+Adult,Toppings,Crispy Corn Tortilla,Regular,1 ea,70,25,3,0.5,2.5,0,0,0,0,1,0,1
+Adult,Rice,Cilantro-Lime Brown Rice,Regular,4 oz,210,50,6,1,5,0,0,190,0,2,0,4
+Adult,Rice,Cilantro-Lime White Rice,Regular,4 oz,210,35,4,0.5,3.5,0,0,350,0,1,0,4
+Adult,Beans,Black Beans,Regular,4 oz,130,15,1.5,0,1.5,0,0,210,2,7,2,8
+Adult,Beans,Pinto Beans,Regular,4 oz,130,10,1.5,0,1.5,0,0,210,1,8,1,8
+Adult,Veggies,Fajita Vegetables,Regular,2.5 oz,20,0,0,0,0,0,0,150,2,1,2,1
+Adult,Protein,Barbacoa,Regular,4 oz,170,60,7,2.5,4.5,0,65,530,0,1,0,24
+Adult,Protein,Chicken,Regular,4 oz,180,60,7,3,4,0,125,310,0,0,0,32
+Adult,Protein,Carnitas,Regular,4 oz,210,120,12,7,5,0,65,450,0,0,0,23
+Adult,Protein,Steak,Regular,4 oz,150,60,6,2.5,3.5,0,80,330,0,1,0,21
+Adult,Protein,Sofritas,Regular,4 oz,150,80,10,1.5,8.5,0,0,560,5,3,5,8
+Adult,Toppings,Fresh Tomato Salsa,Regular,3.5 oz,25,0,0,0,0,0,0,550,1,1,1,0
+Adult,Toppings,Roasted Chili-Corn Salsa,Regular,3.5 oz,80,15,1.5,0,1.5,0,0,330,4,3,4,3
+Adult,Toppings,Tomatillo-Green Chili Salsa,Regular,2 fl oz,15,5,0,0,0,0,0,260,2,0,2,0
+Adult,Toppings,Tomatillo-Red Chili Salsa,Regular,2 fl oz,30,5,0,0,0,0,0,500,0,1,0,0
+Adult,Toppings,Cheese,Regular,1 oz,110,70,8,0,8,0,30,190,0,0,0,6
+Adult,Toppings,Sour Cream,Regular,2 oz,110,90,9,5,4,0,40,30,2,0,2,2
+Adult,Toppings,Guacomole (Side),Regular,4 oz,230,190,22,7,15,0,0,370,1,6,1,2
+Adult,Toppings,Guacomole,Large,8 oz,460,380,44,3.5,40.5,0,0,740,2,12,2,4
+Adult,Toppings,Queso Blanco (Entree),Regular,2 oz,120,80,9,7,2,0,30,250,1,0,1,5
+Adult,Toppings,Queso Blanco (Side),Regular,4 oz,240,170,18,6,11,1,60,490,2,0,2,10
+Adult,Toppings,Queso Blanco,Large,8 oz,480,330,37,12,23.5,1.5,120,980,5,1,5,20
+Adult,Veggies,Supergreens Mix,Large,2.5 oz,15,0,0,23,-23,0,0,15,1,2,1,1
+Adult,Veggies,Romaine Lettuce,Regular,1 oz,5,0,0,0,0,0,0,0,0,1,0,0
+Adult,"Taco, Side",Chips,Regular,4 oz,540,230,25,0,25,0,0,390,1,7,1,7
+Adult,Side,Chips,Regular,6 oz,810,350,38,3.5,34.5,0,0,590,2,11,2,11
+Adult,Beverage,Vinaigrette,Large,2 fl oz,220,140,16,5,11,0,0,850,12,1,12,1
+Adult,Beverage,Barq's Root Beer,Regular,22 fl oz,280,0,0,0,0,0,0,130,85,0,85,0
+Adult,Beverage,Barq's Root Beer,Large,32 fl oz,430,0,0,0,0,0,0,180,120,0,120,0
+Adult,Beverage,Coca-Cola Classic,Regular,22 fl oz,260,0,0,0,0,0,0,85,70,0,70,0
+Adult,Beverage,Coca-Cola Classic,Large,32 fl oz,380,0,0,0,0,0,0,120,105,0,105,0
+Adult,Beverage,Coca-Cola Life,Regular,22 fl oz,170,0,0,0,0,0,0,70,44,0,44,0
+Adult,Beverage,Coca-Cola Life,Large,32 fl oz,250,0,0,0,0,0,0,105,64,0,64,0
+Adult,Beverage,Coca-Cola Zero,Regular,22 fl oz,0,0,0,0,0,0,0,75,0,0,0,0
+Adult,Beverage,Coca-Cola Zero,Large,32 fl oz,0,0,0,0,0,0,0,115,0,0,0,0
+Adult,Beverage,Diet Coke,Regular,22 fl oz,0,0,0,0,0,0,0,75,0,0,0,0
+Adult,Beverage,Diet Coke,Large,32 fl oz,0,0,0,0,0,0,0,115,0,0,0,0
+Adult,Beverage,"Diet Coke, Caffeine Free",Regular,22 fl oz,0,0,0,0,0,0,0,90,0,0,0,0
+Adult,Beverage,"Diet Coke, Caffeine Free",Large,32 fl oz,0,0,0,0,0,0,0,130,0,0,0,0
+Adult,Beverage,Pibb Xtra,Regular,22 fl oz,260,0,0,0,0,0,0,75,70,0,70,0
+Adult,Beverage,Pibb Xtra,Large,32 fl oz,380,0,0,0,0,0,0,115,105,0,105,0
+Adult,Beverage,Sprite,Regular,22 fl oz,260,0,0,0,0,0,0,120,70,0,70,0
+Adult,Beverage,Sprite,Large,32 fl oz,380,0,0,0,0,0,0,180,105,0,105,0
+Adult,Beverage,Fanta Orange,Regular,22 fl oz,290,0,0,0,0,0,0,80,80,0,80,0
+Adult,Beverage,Fanta Orange,Large,32 fl oz,430,0,0,0,0,0,0,140,120,0,120,0
+Adult,Beverage,Minute Maid Lemonade,Regular,22 fl oz,280,0,0,0,0,0,0,95,75,0,75,0
+Adult,Beverage,Minute Maid Lemonade,Large,32 fl oz,400,0,0,0,0,0,0,140,110,0,110,0
+Adult,Beverage,Powerade Mountain Berry Blast,Regular,22 fl oz,280,0,0,0,0,0,0,95,75,0,75,0
+Adult,Beverage,Powerade Mountain Berry Blast,Large,32 fl oz,400,0,0,0,0,0,0,140,110,0,110,0
+Adult,Beverage,Mello Yello,Regular,22 fl oz,290,0,0,0,0,0,0,100,100,0,100,0
+Adult,Beverage,Mello Yello,Large,32 fl oz,420,0,0,0,0,0,0,140,140,0,140,0
+Adult,Beverage,Lemonade - Blue Sky,Regular,22 fl oz,300,0,0,0,0,0,0,95,74,0,74,0
+Adult,Beverage,Lemonade - Blue Sky,Large,32 fl oz,440,0,0,0,0,0,0,135,108,0,108,0
+Adult,Beverage,Mango Orange - Blue Sky,Regular,22 fl oz,330,0,0,0,0,0,0,80,74,0,74,0
+Adult,Beverage,Mango Orange - Blue Sky,Large,32 fl oz,430,0,0,0,0,0,0,120,108,0,108,0
+Adult,Beverage,Maine Root Root Beer,Regular,22 fl oz,170,0,0,0,0,0,0,30,40,0,40,0
+Adult,Beverage,Maine Root Root Beer,Large,32 fl oz,240,0,0,0,0,0,0,65,90,0,90,0
+Adult,Beverage,Chipotle Iced Tea,Regular,22 fl oz,10,0,0,0,0,0,0,0,0,0,0,0
+Adult,Beverage,Chipotle Iced Tea,Large,32 fl oz,15,0,0,0,0,0,0,0,0,0,0,0
+Adult,Beverage,Chipotle Sweet Iced Tea,Regular,22 fl oz,150,0,0,0,0,0,0,0,45,0,45,0
+Adult,Beverage,Chipotle Sweet Iced Tea,Large,32 fl oz,220,0,0,0,0,0,0,0,65,0,65,0
+Adult,Beverage,Tractor Berry Agua Fresca,Regular,22 fl oz,200,0,0,0,0,0,0,10,49,0,49,0
+Adult,Beverage,Tractor Berry Agua Fresca,Large,32 fl oz,290,0,0,0,0,0,0,15,72,0,72,0
+Adult,Beverage,Tractor Hibuscus Lemonade,Regular,22 fl oz,150,0,0,0,0,0,0,0,35,0,35,0
+Adult,Beverage,Tractor Hibuscus Lemonade,Large,32 fl oz,210,0,0,0,0,0,0,5,50,1,50,0
+Adult,Beverage,Tractor Lemonade,Regular,22 fl oz,150,0,0,0,0,0,0,0,36,1,36,0
+Adult,Beverage,Tractor Lemonade,Large,32 fl oz,220,0,0,0,0,0,0,5,53,1,53,0
+Adult,Beverage,Tractor Mandarin Agua Fresca,Regular,22 fl oz,190,0,0,0,0,0,0,0,47,0,47,0
+Adult,Beverage,Tractor Mandarin Agua Fresca,Large,32 fl oz,280,0,0,0,0,0,0,5,69,0,69,0
+Kids,Taco,Flour Tortilla,Small,2 ea,170,45,5,0,5,0,0,320,27,1,0,5
+Kids,Quesidilla,Flour Tortilla,Small,1 ea,80,25,2.5,0,2.5,0,0,160,13,1,0,2
+Kids,Toppings,Crispy Corn Tortilla,Small,2 ea,130,50,6,1,5,0,0,0,19,2,0,2
+Kids,Rice,Cilantro-Lime Brown Rice,Small,2 oz,110,25,3,0.5,2.5,0,0,95,18,1,0,2
+Kids,Rice,Cilantro-Lime White Rice,Small,2 oz,100,20,2,0,2,0,0,170,20,0,0,2
+Kids,Beans,Black Beans,Small,3 oz,100,10,1,0,1,0,0,160,16,5,1,6
+Kids,Beans,Pinto Beans,Small,3 oz,100,10,1,0,1,0,0,160,15,6,1,6
+Kids,Veggies,Fajita Vegetables,Small,0.8 oz,5,0,0,0,0,0,0,60,1,0,1,0
+Kids,"Side, Protein",Barbacoa,Small,0.5 oz,20,5,1,0.5,0.5,0,10,65,0,0,0,3
+Kids,"Main, Protein",Barbacoa,Small,2 oz,80,30,3,1.5,1.5,0,30,260,1,1,0,12
+Kids,"Side, Protein",Chicken,Small,0.5 oz,25,5,1,0.5,0.5,0,15,40,0,0,0,4
+Kids,"Main, Protein",Chicken,Small,2 oz,90,30,3,1.5,1.5,0,65,150,0,0,0,15
+Kids,"Side, Protein",Carnitas,Small,0.5 oz,25,15,2,1,1,0,10,55,0,0,0,3
+Kids,"Main, Protein",Carnitas,Small,2 oz,110,10,6,3,3,0,30,220,0,0,0,12
+Kids,"Side, Protein",Steak,Small,0.5 oz,20,10,1,0,1,0,10,40,0,0,0,3
+Kids,"Main, Protein",Steak,Small,2 oz,70,30,3,1.5,1.5,0,40,160,1,1,0,10
+Kids,"Side, Protein",Sofritas,Small,0.5 oz,15,10,1,0,1,0,0,70,1,0,1,1
+Kids,"Main, Protein",Sofritas,Small,2 oz,70,40,5,1,4,0,0,280,5,2,2,4
+Kids,Veggies,Fresh Tomato Salsa,Small,2 oz,15,0,0,0,0,0,0,310,1,0,1,0
+Kids,Toppings,Roasted Chili-Corn Salsa,Small,2 oz,40,10,1,0,1,0,0,190,9,1,3,1
+Kids,Toppings,Tomatillo-Green Chili Salsa,Small,2 fl oz,15,5,0,0,0,0,0,260,4,0,2,0
+Kids,Toppings,Tomatillo-Red Chili Salsa,Small,2 fl oz,30,5,0,0,0,0,0,500,4,2,0,0
+Kids,Toppings,Cheese,Small,1 oz,110,70,8,5,3,0,30,190,1,0,0,6
+Kids,Toppings,Sour Cream,Small,1 oz,60,45,5,3.5,1.5,0,20,15,1,0,1,1
+Kids,Toppings,Guacomole,Small,2 oz,110,100,11,1.5,9.5,0,0,190,3,3,0,1
+Kids,Toppings,Queso Blanco,Small,2 oz,120,80,9,6,3,0,30,250,4,0,1,5
+Kids,Veggies,Romaine Lettuce,Small,1 oz,5,0,0,0,0,0,0,0,1,1,0,0
+Kids,Kid's Meal,Mandarins,Small,1 ea,35,0,0,0,0,0,0,0,9,1,7,1
+Kids,Kid's Meal,Blueberries,Small,1 ea,20,0,0,0,0,0,0,0,5,1,3,1
+Kids,Kid's Meal,Valencia Oranges,Small,1 ea,80,0,0,0,0,0,0,0,19,3,14,1
+Kids,Kid's Meal,Chips,Small,1 oz,140,60,6,1,5,0,0,95,18,2,0,2
